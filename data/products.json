@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Tanjiro Half Sleeve",
+            "image": "./images/products/Tshirts/t3.jpeg",
+            "price": 12,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Black clover Hoodie",
+            "image": "./images/products/Hoodies/h2.jpeg",
+            "price": 24.99,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Gojo Half Sleeve",
+            "image": "./images/products/Tshirts/t2.jpeg",
+            "price": 12,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Demon Slayer Hoodie",
+            "image": "./images/products/Tshirts/t4.jpeg",
+            "price": 24.99,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Eren Half Sleeve",
+            "image": "./images/products/Hoodies/h3.jpeg",
+            "price": 12,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Demon Slayer Hoodie",
+            "image": "./images/products/Hoodies/h4.jpeg",
+            "price": 24.99,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Itachi Half Sleeve",
+            "image": "./images/products/Tshirts/t5.jpeg",
+            "price": 12,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "JJK Hoodie",
+            "image": "./images/products/Hoodies/h6.jpeg",
+            "price": 24.99,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Sasuke Full Sleeve",
+            "image": "./images/products/Tshirts/t6.jpeg",
+            "price": 15,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Itachi Hoodie",
+            "image": "./images/products/Hoodies/h7.jpeg",
+            "price": 28,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Itachi Hoodie",
+            "image": "./images/products/Hoodies/h7.jpeg",
+            "price": 28,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Weeb Hooide",
+            "image": "./images/products/Hoodies/h5.jpeg",
+            "price": 30,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Naruto Hoodie",
+            "image": "./images/products/Hoodies/h8.jpeg",
+            "price": 30,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Akatsuki Hoodie",
+            "image": "./images/products/Jackets/j6.jpeg",
+            "price": 30,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "Draken Jacket",
+            "image": "./images/products/Jackets/j5.jpeg",
+            "price": 34.55,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Zoro Half Sleve",
+            "image": "./images/products/Tshirts/t1.jpeg",
+            "price": 12,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Evangellion Hooide",
+            "image": "./images/products/Hoodies/h9.jpeg",
+            "price": 30,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Survey Corps Jacket",
+            "image": "./images/products/Jackets/j4.jpeg",
+            "price": 34.99,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Evangellion Hooide",
+            "image": "./images/products/Hoodies/h10.jpeg",
+            "price": 30,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Killua Hoodie",
+            "image": "./images/products/Hoodies/h1.jpeg",
+            "price": 24.99,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Zenitsu Jacket",
+            "image": "./images/products/Jackets/j2.jpeg",
+            "price": 34.99,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Tanjiro Hoodie",
+            "image": "./images/products/Hoodies/h11.jpeg",
+            "price": 24.99,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "Walhalla Jacket",
+            "image": "./images/products/Jackets/j1.jpeg",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Nezuko Hoodie",
+            "image": "./images/products/Jackets/j3.jpeg",
+            "price": 34.99,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "11 Tails Hoodie",
+            "image": "./images/products/Hoodies/h12.jpeg",
+            "price": 30,
+            "category": "Featured Products"
+        }
+
+    ]
+}
